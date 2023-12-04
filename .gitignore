@@ -1,0 +1,17 @@
+.env
+venv/
+data/
+*.log
+*.tmp
+*.tmp/*
+*.tmp/*
+*.pyc
+*.pyo
+*.so
+*.egg-info
+*.egg-info/*
+*.egg-info/*
+*.egg-info/*
+*.sqlite3
+*.sqlite3/*
+*.sqlite3/*
